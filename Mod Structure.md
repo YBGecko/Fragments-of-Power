@@ -93,9 +93,7 @@ I need [ATM10's support mods] to help reduce lag and increase preformance
 
 
 # {{GOAL}}
-People "win" by doing [activity] in my [mod pack idea]
-Kill the king and take over
-
+People "win" by doing [Killing the king] in my [mod pack idea]
 
 # [End Game]
 Purge the world. Purge the universe. Purge all of the evil
