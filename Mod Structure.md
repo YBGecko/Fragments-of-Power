@@ -53,7 +53,7 @@ I need [L_Ender's Cataclysm/bosses of mass destruction] to add side bosses to th
 
 I need [Origins/RPG series] for races and classes
 
-I need [Irons Spell N Spellbooks/Ars Nevou/evil craft] for magic systems
+I need [Irons Spell N Spellbooks/Ars Nevou/evil craft/ars Aditions] for magic systems
 
 I need [Vampirism/mowsies mobs] for fantasy creatures
 
